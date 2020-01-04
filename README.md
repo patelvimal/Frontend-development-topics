@@ -4,7 +4,6 @@
 
 1. **[Javascript](#1-javascript)**
 2. **[Angular](#2-angular)**
-3. **[React](#3-react)**
 
 ---
 
