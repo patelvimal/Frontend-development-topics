@@ -52,6 +52,5 @@
 :heavy_check_mark: Method (HostListener, HostBinding)  
 :heavy_check_mark: Parameter (Inject)  
   
-:heavy_check_mark: Secure your App  
 :heavy_check_mark: Reactive Form  
 :heavy_check_mark: Template Driven Form
