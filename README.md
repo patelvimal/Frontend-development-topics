@@ -1,4 +1,4 @@
-# Frontend-development-topics - Javascript | Angular | React
+# Frontend-development-topics - Javascript | Angular
 
 ### Table of Contents
 
