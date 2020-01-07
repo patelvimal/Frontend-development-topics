@@ -1,9 +1,10 @@
-# Frontend-development-topics - Javascript | Angular
+# Frontend-development-topics - Javascript | Angular | React
 
 ### Table of Contents
 
 1. **[Javascript](#1-javascript)**
 2. **[Angular](#2-angular)**
+3. **[React](#2-react)**
 
 ---
 
@@ -54,3 +55,10 @@
   
 :heavy_check_mark: Reactive Form  
 :heavy_check_mark: Template Driven Form
+
+
+### 3. React
+
+:heavy_check_mark: Lifecycle methods
+
+
